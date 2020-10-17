@@ -1,4 +1,4 @@
-(() => {
+(() => { 
   let playing = true,
     activeHole = 1;
 
